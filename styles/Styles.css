@@ -1,0 +1,37 @@
+li.list-group-item.active{
+    background-color: #C9B194;
+    border:#735557;
+}
+nav.navbar.navbar-expand-lg{
+    background-color: #C9B194;
+    color: whitesmoke;
+
+}
+footer{
+    margin-top: 30px;
+    margin-bottom: 0px;
+    background-color: #C9B194;
+}
+
+.container{
+    margin: 10px;
+}
+
+div.carousel#carouselExampleSlidesOnly{
+    margin: 40px;
+    align-content: center;
+}
+
+div.col-sm#form-opiniones{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+p{
+    font-family: "Red Hat Display", sans-serif;
+    font-style: normal;
+}
+a.btn.btn-primary {
+    background-color: #706D54;
+    border: #735557;
+}
